@@ -1,0 +1,24 @@
+nav li {
+    list-style: none;
+    background-color: rebeccapurple;
+    margin: 30px;
+    padding: 10px;
+
+
+}
+
+nav ul {
+
+    display: flex;
+    
+}
+
+nav li:hover {
+    background-color: rgba(6, 84, 113, 0.669);
+}
+
+nav li a {
+    color: aliceblue;
+    list-style: none;
+    text-decoration: none;
+}
